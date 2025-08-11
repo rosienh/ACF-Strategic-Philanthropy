@@ -40,10 +40,10 @@ An interactive tool allows Lee to precisely identify organizations aligned with 
 ## 4. Recommendations
 Based on the project's insights, the following actions are recommended for Lee:
 
-a. Utilize the Interactive Tool: Use the provided dashboard to filter for projects that align with her specific criteria for youth and SDG support.
+- Utilize the Interactive Tool: Use the provided dashboard to filter for projects that align with her specific criteria for youth and SDG support.
 
-b. Prioritize Strategic Gaps: Consider allocating funds to under-represented SDGs, such as Climate Action (Goal 13), to make a high-impact contribution in an underfunded area.
+- Prioritize Strategic Gaps: Consider allocating funds to under-represented SDGs, such as Climate Action (Goal 13), to make a high-impact contribution in an underfunded area.
 
-c. Support Systemic Change: For more common SDGs, fund organizations that are developing innovative, large-scale solutions to create lasting change.
+- Support Systemic Change: For more common SDGs, fund organizations that are developing innovative, large-scale solutions to create lasting change.
 
-d. Adopt a Pilot Program Strategy: Use the tool's project-level detail to fund smaller projects as pilots to gauge their social impact before committing to long-term partnerships.
+- Adopt a Pilot Program Strategy: Use the tool's project-level detail to fund smaller projects as pilots to gauge their social impact before committing to long-term partnerships.
