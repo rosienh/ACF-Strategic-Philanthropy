@@ -25,15 +25,15 @@ The project empowers Lee to move beyond reactive giving and make proactive inves
 Ultimately, the project equips Lee with the insights and evidence needed to allocate her company's philanthropic resources effectively, ensuring every investment generates measurable social returns.
 
 ## 3. Insights Deep Dive
-**Question 1:** What are the characteristics of the organisations and projects seeking funding?
+**Question 1: What are the characteristics of the organisations and projects seeking funding?**
 
 The ACF platform features 423 charities and 109 ongoing projects seeking over $10.64M in funding. Critically for Lee's goals, only 17.5% of projects are **youth-focused**. Most charities are concentrated in NSW and Victoria, with funding heavily directed toward social purpose and education. Small charities tend to focus on poverty, while large ones prioritize health.
 
-**Question 2:** Where can Lee prioritise funding for maximum SDG impact in Australia?
+**Question 2: Where can Lee prioritise funding for maximum SDG impact in Australia?**
 
 A comparison of Australia’s SDG status and ACF's focus reveals two key opportunities. Lee can fund overlooked national priorities like **Goal 13** (Climate Action), which has a severe shortage of funding. Alternatively, she can support systemic change in popular areas like **Goal 4** (Quality Education) by funding large-scale solutions to complex, systemic challenges.
 
-**Question 3:** Which charity organisations demonstrate the strongest alignment with youth well-being?
+**Question 3: Which charity organisations demonstrate the strongest alignment with youth well-being?**
 
 An interactive tool allows Lee to precisely identify organizations aligned with her needs. She can dynamically filter by **Field of Interest, Target Population, and UN SDGs** to find charities focused on youth well-being. This feature provides a detailed overview of potential partners and their projects, enabling a strategic, data-driven approach to funding.
 
