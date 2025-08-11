@@ -1,9 +1,9 @@
 # ACF-Strategic-Philanthropy
 
 ## 1. Background and Overview
-This project was developed to assist Lee, a CSR Manager for a large Australian company, who is focused on making strategic philanthropic investments. Lee's goal is to align her company’s funding with specific values, such as youth leadership, and with global initiatives like the UN Sustainable Development Goals (SDGs). She needs a more effective way to identify potential partners and opportunities.
+This project was developed to assist Lee, a CSR Manager for a large Australian company, who is focused on making **strategic philanthropic investments**. Lee's goal is to align her company’s funding with specific values, such as **youth leadership**, and with global initiatives like the **UN Sustainable Development Goals** (SDGs). She needs a more effective way to identify potential partners and opportunities.
 
-Lee discovered the Australian Communities Foundation (ACF), a platform that lists numerous projects seeking support. However, she required a clearer, more interactive way to analyze this data. This project was initiated to answer three key questions that define her strategic needs:
+Lee discovered the **Australian Communities Foundation** (ACF), a platform that lists numerous projects seeking support. However, she required a clearer, more interactive way to analyze this data. This project was initiated to answer three key questions that define her strategic needs:
 
 1. What are the characteristics of the organisations and projects seeking funding?
 
@@ -11,20 +11,20 @@ Lee discovered the Australian Communities Foundation (ACF), a platform that list
 
 3. Which ACF charities align best with addressing critical youth well-being challenges?
 
-## 3. Executive Summary
+## 2. Executive Summary
 This data analysis project provides Lee with a powerful, data-driven framework for making strategic funding decisions. The core deliverable is an interactive tool that transforms complex data from the Australian Communities Foundation (ACF) into clear, actionable insights.
 
 The project empowers Lee to move beyond reactive giving and make proactive investments by:
 
-Providing a complete overview of the philanthropic landscape on the ACF platform.
+- Providing a complete overview of the philanthropic landscape on the ACF platform.
 
-Highlighting opportunities to maximize the company's impact on Australia's SDG status.
+- Highlighting opportunities to maximize the company's impact on Australia's SDG status.
 
-Pinpointing charities that are most aligned with her company's specific focus on youth well-being.
+- Pinpointing charities that are most aligned with her company's specific focus on youth well-being.
 
 Ultimately, the project equips Lee with the insights and evidence needed to allocate her company's philanthropic resources effectively, ensuring every investment generates measurable social returns.
 
-## 4. Insights Deep Dive
+## 3. Insights Deep Dive
 Initial insights reveal significant disparities in supplier performance and category health:
 
 ### Supplier Performance
