@@ -4,7 +4,8 @@
 <img width="1365" height="768" alt="image" src="https://github.com/user-attachments/assets/97796698-3e32-4743-9126-9ce485a6afca" />
 <img width="1362" height="758" alt="image" src="https://github.com/user-attachments/assets/3cad3261-74b1-4bdd-9a40-0fc22542a7b0" />
 
-(Please find the attached Power BI file in the file above (ends with .pbix)
+*(Please find the attached Power BI file in the file above (ends with .pbix)*
+
 
 ## 1. Background and Overview
 This project was developed to assist Lee, a CSR Manager for a large Australian company, who is focused on making **strategic philanthropic investments**. Lee's goal is to align her company’s funding with specific values, such as **youth leadership**, and with global initiatives like the **UN Sustainable Development Goals** (SDGs). She needs a more effective way to identify potential partners and opportunities.
